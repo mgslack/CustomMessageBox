@@ -11,4 +11,4 @@ Various other forms of the call provided including one to return the message box
 show and work with programatically.
 Should use the stock MessageBox.Show(xxx) if need help context or other options or
 not going to use icon or care about sound.
-Includes at test application to try out different configurations to check out the MsgBox.Show call.
+Includes a test application to try out different configurations to check out the MsgBox.Show call.
