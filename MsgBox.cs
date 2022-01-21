@@ -18,11 +18,14 @@ using System.Media;
  * 
  * Author: Michael G. Slack
  * Written: 2021-11-09
- * Version: 1.0.0.0
+ * Version: 1.1.0.0
  * 
  * ----------------------------------------------------------------------------
  * 
- * Updated: yyyy-mm-dd - xxxxx.
+ * Updated: 2022-01-21 - Backleveled the target .net framework to v4.0 from v4.7.2
+ *                       so can use with older v4.x projects without up leveling
+ *                       the target .net framework.  This should have been created
+ *                       with the v4.0 target from the start.
  * 
  */
 namespace CustomMessageBox
